@@ -1,2 +1,3 @@
-# Dio-repo-desafios
-Repositório de projetos e desafios dos treinamentos DIO
+# DIO Desafios e Projetos 
+
+Repositório de projetos e desafios dos treinamentos da DIO
